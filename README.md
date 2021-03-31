@@ -1,2 +1,2 @@
-# todo-app
- Todo App with React and Redux
+# Todo APP
+ Todo App with React, Redux and Mongo from Cod3r Cursos
